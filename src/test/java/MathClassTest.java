@@ -3,7 +3,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class MathClassTest {
-    MathClass mc = new MathClass();
+    Lab mc = new Lab();
 
     /**
      * MathPow should return 4 with inputs 2 and 2 because 2^2 = 4.
